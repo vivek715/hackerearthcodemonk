@@ -1,0 +1,2 @@
+# hackerearthcodemonk
+codemonk solutions 
